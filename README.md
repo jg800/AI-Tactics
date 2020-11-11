@@ -1,3 +1,3 @@
 # AI-Tactics
 
-This project will be made using unity
+This project will be made using unity and C#
